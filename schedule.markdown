@@ -15,4 +15,5 @@ permalink: /schedule/
 - 14 : 45 - 15 : 30 Coffee Break + Poster Session 2
 - 15 : 30 - 16 : 10 Keynote Talk 4
 - 16 : 10 - 16 : 50 Keynote Talk 5
+- - 14 : 00 - 14 : 45 Panel Discussion
 - 16 : 50 - 17 : 15 Closing Remarks and Awards
